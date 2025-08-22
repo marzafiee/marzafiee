@@ -2,7 +2,7 @@
 
 I study Computer Science at Ashesi University.
 
-- 💻 Tech stack: Python (Flask), Java, R, JavaScript, SQL, PostgreSQL, HTML/CSS
+- 💻 Tech stack: Python (Flask), Java, R, JavaScript, TypeScript, PostgreSQL, HTML/CSS, Next.js
 - 🤝 Familiar with: Postman, Neon, DBeaver, MySQL, XAMMP, Notion, Miro, Zotero, Google Colab
 - 📊 Interested in Software Engineering, Research, Data Analytics and AI/ML Automation.
 - 🤔 Improving my skills in backend development.
