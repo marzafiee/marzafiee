@@ -7,5 +7,5 @@ I study Computer Science at Ashesi University.
 - 📊 Interested in Software Engineering, UI/UX, Research, Data Analytics and AI/ML Automation.
 - 🤔 Improving my skills in backend development.
 - 📍 Currently delving into UI/UX and building mobile apps!
-- 🎾 Fun fact: Member of Ashesi University's Women's Tennis Team when not debugging code
+- 🎾 Fun fact: President of the Ashesi Tennis Association playing ball when not debugging code!
 - 📫 Reach me: inezannemarie@gmail.com
